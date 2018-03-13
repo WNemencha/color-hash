@@ -13,7 +13,7 @@ jobs:
           keys:
           - dependencies-{{ checksum "package.json" }}
 
-      - run: npm install
+      - run: npm ci
 
       - save_cache:
           paths:
