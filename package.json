@@ -2,10 +2,10 @@
     "name": "color-hash",
     "version": "1.0.3",
     "description": "Generate color based on the given string (using HSL color space and BKDRHash).",
-    "main": "lib/color-hash.js",
+    "main": "src/color-hash.js",
     "scripts": {
         "prepublishOnly": "npm run test && npm run build",
-        "build": "browserify lib/color-hash.js -s ColorHash -o dist/color-hash.js",
+        "build": "browserify src/color-hash.js -s ColorHash -o dist/color-hash.js",
         "test": "istanbul cover _mocha"
     },
     "repository": {

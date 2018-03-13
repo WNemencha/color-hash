@@ -1,8 +1,6 @@
 # Color Hash
 
-[![CircleCI](https://circleci.com/gh/zenozeng/color-hash.svg?style=svg)](https://circleci.com/gh/zenozeng/color-hash)
-
-[![codecov](https://codecov.io/gh/zenozeng/color-hash/branch/v2/graph/badge.svg)](https://codecov.io/gh/zenozeng/color-hash)
+[![CircleCI](https://circleci.com/gh/zenozeng/color-hash.svg?style=svg)](https://circleci.com/gh/zenozeng/color-hash) [![codecov](https://codecov.io/gh/zenozeng/color-hash/branch/v2/graph/badge.svg)](https://codecov.io/gh/zenozeng/color-hash)
 
 Generate color based on the given string.
 
