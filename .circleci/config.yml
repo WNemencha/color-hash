@@ -19,5 +19,9 @@ jobs:
           paths:
             - node_modules
           key: dependencies-{{ checksum "package.json" }}
+
+      - run: npm install -g codecov
         
       - run: npm test
+
+      - run: codecov

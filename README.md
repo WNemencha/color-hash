@@ -1,5 +1,7 @@
 # Color Hash
 
+[![CircleCI](https://circleci.com/gh/zenozeng/color-hash.svg?style=svg)](https://circleci.com/gh/zenozeng/color-hash)
+
 Generate color based on the given string.
 
 ## Demo
